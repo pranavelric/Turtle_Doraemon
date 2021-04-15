@@ -1,3 +1,3 @@
 # Turtle Doraemon
 
-![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/Doraemon/Pikachu.gif)
+![](https://github.com/pranavelric/Turtle_Doraemon/blob/master/dm.gif?raw=true)
